@@ -2,7 +2,7 @@
 
 A Python script to upscale images using the Real-ESRGAN model. This project leverages pre-trained models to enhance image resolution with minimal artifacts.
 
-![Input/Output Example](example/compare.png) *(Optional: Add example images)*
+![output.png](input.jpg) ![This Icons - Free SVG & PNG This Images - Noun Project](https://static.thenounproject.com/png/790927-200.png)  ![output.png](output.png)
 
 ## Features
 
